@@ -106,3 +106,4 @@ with tf.Session() as sess:
                 x:  test_x,
                 y:  test_y,
             }))
+        step += 1
